@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+
+*
+{
+	margin:0px;
+	padding:0px;
+}
+
+body
+{
+	background-color: teal ;
+	
+}
+
+h1
+{
+	align-items:center;
+	margin-top:150px;
+}
+
+button ,a 
+{
+	border: 2px solid black;
+	color: white;
+	background: yellow;
+	margin-top:20px;
+	width:150px;
+	text-decoration:none;
+	text-align:center;
+}
+
+
+.buttons
+{
+	text-align:center;
+}
